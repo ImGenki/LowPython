@@ -1,4 +1,4 @@
-﻿# PythonScripts
+﻿# LowPython Scripts
 
 
 
@@ -17,7 +17,7 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣀⣀⣀⣀⣀⣀⣀⣀⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
-
+Just a library of easy python scripts. Just to keep them somewhere just in case
 
 The first one helps us to find IP adress in .txt file in any disk. It reads dirs and check if it s a jpg
 or a txt. If a jpg it shows us the path. If txt it checks inside if an IP is written
